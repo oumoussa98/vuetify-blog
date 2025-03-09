@@ -1,0 +1,15 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// Import Vuetify settings
+@use 'vuetify/settings' with (
+	$color-pack: true
+);
+
+// Custom Vuetify settings
+// Add your unique and different design modifications here
+// For example, you can customize colors, typography, spacing, etc.
+
